@@ -12,9 +12,9 @@ curl --REQUEST GET http://localhost/M8UF1/PR8/crud.php
 curl --REQUEST DELETE --DATA "id=1" http://localhost/M8UF1/PR8/crud.php
 ::Fitxer eliminat
 curl --REQUEST GET http://localhost/M8UF1/PR8/crud.php
-:2.txt
+::2.txt
 curl --REQUEST POST --DATA "id=2&name=zutano" http://localhost/M8UF1/PR8/crud.php
-:Fitxer acutalitzat
+::Fitxer acutalitzat
 curl --REQUEST GET http://localhost/M8UF1/PR8/crud.php?id=2
 ::id: 2
 ::name: zutano
