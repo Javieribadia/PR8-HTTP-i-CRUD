@@ -1,4 +1,4 @@
-# practiac tal
+# PR8 Mètodes HTTP i CRUD en una aplicació PHP
 
 ## CREATE
 	Indicarem amb els parametres id el nom del fitxer i amb name el contingut
